@@ -18,19 +18,19 @@ March- $98,834.68
 April- $1,18,941.08
 May- $1,56,727.76
 June- $1,66,485.88
-4. Total Sales of different stores Locations
+5. Total Sales of different stores Locations
 Hell’s Kitchen- $2,36,511.17
 Astoria- $2,32,243.91
 Lower Manhattan- $2,30,057.25
-5. Average Price per person- $4.69
+6. Average Price per person- $4.69
 Average Order per Person- 1.44
-6. Best Selling products in terms of Quantity and Revenue
+7. Best Selling products in terms of Quantity and Revenue
 Barista Espresso 24943 $91,406.20
 Brewed Black tea 17462 $47,932.00
 Brewed Chai tea 26250 $77,081.95
 Gourmet brewed coffee 25973 $70,034.60
 Hot chocolate 17457 $72,416.00
-7. Percentage Distribution of Sales by Product category or Variation in sales by product category.
+8. Percentage Distribution of Sales by Product category or Variation in sales by product category.
 Bakery 12%
 Branded 2%
 Coffee 39%
